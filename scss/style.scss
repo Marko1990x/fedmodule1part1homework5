@@ -1,4 +1,14 @@
+@import "vars";
+
+
 *{
-    margin: 0%;
+    margin: 0% auto;
     padding: 0%;
+    width: 1200px;
+    
+}
+
+head, body{
+    background: linear-gradient($boja1background, $boja2background);
+    background-repeat: no-repeat;
 }
